@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# JU-DERMA Skin Diagnosis React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## 🚀 Overview
 
-### `npm start`
+The **JU-DERMA Skin Diagnosis React App** is a cutting-edge web application designed to diagnose skin conditions using advanced image classification technology. Users can upload images of their skin to receive an accurate diagnosis based on machine learning models.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **📷 Image Upload:** Seamlessly upload images of your skin for diagnosis.
+- **🩺 Diagnosis:** Get real-time diagnosis based on the uploaded image using machine learning.
+- **🗂 History:** Access and review your previous diagnoses.
+- **⚙️ Settings:** Customize your preferences and manage notifications.
 
-### `npm test`
+## 📥 Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To set up and run this project locally, follow these steps:
 
-### `npm run build`
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/mohsinhassan617/juderma-skin-diagnosis-react-app.git
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. **Navigate to the project directory:**
+   ```bash
+   cd juderma-skin-diagnosis-react-app
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. **Install Dependencies:**
+   ```bash
+   npm install
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. **Start the development server:**
+   ```bash
+   npm start
+   ```
+   This will start the development server and open the app in your default web browser.
 
-### `npm run eject`
+## 🛠 Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. **Upload an Image:** Click the upload button to select an image from your device.
+2. **Get Diagnosis:** The app will process the image and display the diagnosis.
+3. **View History:** Access the history section to review previous diagnoses.
+4. **Adjust Settings:** Modify preferences and manage notifications in the settings section.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🤝 Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+We welcome contributions to this project! To contribute:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. **Fork the repository** and clone it to your local machine.
+2. **Create a new branch** for your changes.
+3. **Commit your changes** and push them to your forked repository.
+4. **Submit a pull request** with a clear description of your changes.
 
-## Learn More
+Please ensure that your contributions adhere to the project's coding standards and include appropriate tests.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🧑‍🏫 Supervisor
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Dr. Jatinder Manhas**               
+Associate Professor,
+University of Jammu
 
-### Code Splitting
+## 🏆 Team
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+| Serial No | University ID     | Name            |
+|-----------|-------------------|-----------------|
+| 1         | 0102MCA22   			| Tanisha Mahajan |
+| 2         | 0104MCA22      	  | Taiba Banoo     |
+| 3         | 0114MCA22   			| Mohsin Hassan   |
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+Bhaderwah Campus, University of Jammu
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
